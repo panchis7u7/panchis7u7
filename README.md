@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Love music, programming, networking and maths!
 
-![panchis github stats](https://github-readme-stats.vercel.app/api?username=panchis7u7)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panchis7u7)](https://github.com/panchis7u7/github-readme-stats)
+<a href="https://github.com/panchis7u7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchis7u7&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/panchis7u7">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=panchis7u7&show_icons=true&theme=dark&line_height=27" alt="Panchis7u7's github stats"/>
+</a>
