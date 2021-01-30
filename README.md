@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 📫 How to reach me: ...
 - ⚡ Fun fact: Love music, programming, networking and maths!
+
+![panchis github stats](https://github-readme-stats.vercel.app/api?username=panchis7u7)
