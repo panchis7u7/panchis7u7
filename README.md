@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love music, programming, networking and maths!
 
 ![panchis github stats](https://github-readme-stats.vercel.app/api?username=panchis7u7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panchis7u7)](https://github.com/anuraghazra/github-readme-stats)
