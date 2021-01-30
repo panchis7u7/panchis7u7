@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love music, programming, networking and maths!
 
 <a href="https://github.com/panchis7u7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchis7u7&theme=dark&hide_langs_below=1" />
+  <img align="center" style="width=100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchis7u7&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/panchis7u7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=panchis7u7&show_icons=true&theme=dark&line_height=27" alt="Panchis7u7's github stats"/>
+ <img align="center" style-"width=100%;" src="https://github-readme-stats.vercel.app/api?username=panchis7u7&show_icons=true&theme=dark&line_height=27" alt="Panchis7u7's github stats"/>
 </a>
