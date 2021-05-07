@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on C web Server
-- 🌱 I’m currently learning Cobol programming
-- 👯 I’m looking to collaborate on artificial intelligence proyects
+- 🔭 I’m currently working on a AR Home furniture android aplication with kotlin.
+- 🌱 I’m currently learning Cobol programming, functional programming with Haskell and openGL.
+- 👯 I’m looking to collaborate on artificial intelligence and AR proyects!
 - 💬 Ask me about anything!
-- 📫 How to reach me: ...
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/carlos-sebastian-madrigal-rodriguez-4a786b1b8/).
 - ⚡ Fun fact: Love music, programming, networking and maths!
 
 ### Languages and Tools:
