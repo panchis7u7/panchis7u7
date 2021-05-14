@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 </a>
 
 <br />
+<br />
 
 ![](https://drive.google.com/uc?export=view&id=1_aFOSwXV7s-5ttlD-aYHQfQaQov_ixt_)
-
-<br />
-<br />
