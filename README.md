@@ -46,5 +46,7 @@ Here are some ideas to get you started:
  <img align="center" style-"width=100%;" src="https://github-readme-stats.vercel.app/api?username=panchis7u7&show_icons=true&theme=dark&line_height=27" alt="Panchis7u7's github stats"/>
 </a>
 
+![](https://drive.google.com/uc?export=view&id=1_aFOSwXV7s-5ttlD-aYHQfQaQov_ixt_)
+
 <br />
 <br />
